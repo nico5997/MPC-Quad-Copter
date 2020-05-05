@@ -1,2 +1,2 @@
 # MPC-Quad-Copter
-Model predictive control for Quadcopter.
+Model predictive algorithm control for Quadcopter.
